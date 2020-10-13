@@ -29,7 +29,7 @@
         <flatten-maven-plugin.version>1.1.0</flatten-maven-plugin.version>
         <maven-dependency-plugin.version>3.1.1</maven-dependency-plugin.version>
 
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
 
         <spring-boot.version>2.2.5.RELEASE</spring-boot.version>
         <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
